@@ -1,7 +1,9 @@
 
 {
     "env": {
-      "jest": true
+      "jest": true,
+      "node": true,
+      "es5": true
     },
     "root": true,
     "parser": "@typescript-eslint/parser",
