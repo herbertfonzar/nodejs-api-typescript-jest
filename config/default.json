@@ -1,0 +1,13 @@
+{
+    "App": {
+        "database": {
+            "mongoUrl": "mongodb+srv://admin:KbVxxVWnYDwjOta8@cluster0.1mt3m.mongodb.net/surf-forecast?retryWrites=true&w=majority"
+        },
+        "resources": {
+            "StormGlass": {
+                "apiUrl": "https://api.stormglass.io/v2",
+                "apiToken": "do-no-hard-code"
+            }
+        } 
+    }
+}
